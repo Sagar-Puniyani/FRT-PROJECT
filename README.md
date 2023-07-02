@@ -12,7 +12,7 @@ as the chat bot is train on some of topics and it is intergrated in the code bas
 
 ### DECRIPTION OF THE RESALE PROJECT APP
 * Home page of the App
-  ~https://gray-sea-0fa3a7600.3.azurestaticapps.net~
+  `https://gray-sea-0fa3a7600.3.azurestaticapps.net`
 
   ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/7cd0617a-68e3-45c6-b76e-8f6c362d1608)
 
@@ -26,4 +26,10 @@ as the chat bot is train on some of topics and it is intergrated in the code bas
 ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/ce0c894b-3564-4b3e-af42-d5c85458a32f)
 
 * Integrated Chat Bot with the App
-  ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/e4f06ef3-bed0-405e-b71e-ea5b86e845cc)
+  ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/e4f06ef3-bed0-405e-b71e-ea5b86e845cc
+
+*  Scroll description of the search
+![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/8d976192-22f4-4372-b3c5-3d9a4966a67c)
+
+* Post Free Add on throuh the web App
+  ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/dda91343-27bc-4d18-87f1-fad451490d6d)
