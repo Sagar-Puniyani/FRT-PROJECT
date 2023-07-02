@@ -26,7 +26,8 @@ as the chat bot is train on some of topics and it is intergrated in the code bas
 ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/ce0c894b-3564-4b3e-af42-d5c85458a32f)
 
 * Integrated Chat Bot with the App
-  ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/e4f06ef3-bed0-405e-b71e-ea5b86e845cc
+  ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/98700cba-d482-48a1-a7ae-cf1addbc0702)
+
 
 *  Scroll description of the search
 ![image](https://github.com/Sagar-Puniyani/FRT-PROJECT/assets/126869215/8d976192-22f4-4372-b3c5-3d9a4966a67c)
